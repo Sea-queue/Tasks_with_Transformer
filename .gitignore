@@ -34,13 +34,6 @@ weights/
 *.ckpt
 *.onnx
 
-# Ignore images and output files
-outputs/
-*.png
-*.jpg
-*.jpeg
-*.gif
-
 # Ignore cache and temporary files
 .cache/
 *.tmp
