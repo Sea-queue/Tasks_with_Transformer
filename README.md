@@ -12,6 +12,10 @@
 
 - The Transformer architecture leverages self-attention to model global dependencies in a single layer, enabling **parallel computation** and eliminating the need for sequential processing which improves efficiency over RNNs and CNNs for long-range relationships.
 
+## Architecture
+
+!["transformer_architecture"](transformer_architecture.png)
+
 ## **Translation**
 
 ## **Summarization**
