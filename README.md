@@ -14,7 +14,7 @@
 
 ## Architecture
 
-!["transformer_architecture"](transformer_architecture.png)
+<img src="transformer_architecture.png" alt="transformer_architecture" width="500" height="650"/>
 
 ## **Translation**
 
