@@ -4,6 +4,7 @@
 
 - Building a transformer-based model for Translation, Summarization and Q&A accordingly.
 - Following the architecture in <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">The Annotated Transformer</a>
+- Following the architecture in <a href="https://medium.com/@brianpulfer/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c" target="_blank">Vision Transformer from Scratch</a>
 - Comment each line of code with detailed understanding
 
 ## Background
